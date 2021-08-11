@@ -21,3 +21,20 @@ span{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.service{
+    margin: 55px;
+    box-shadow: 5px 5px 10px black;
+    transition: 0.4s;
+}
+.service:hover{
+    transform: scale(1.1);
+}
+.icon_1{
+    color: blue;
+    border: none;
+    padding: 20px;
+    font-size: 35px;
+}
+.four{
+    margin-top: 150px;
+}
